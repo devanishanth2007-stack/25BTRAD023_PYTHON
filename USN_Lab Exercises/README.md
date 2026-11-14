@@ -1,3 +1,3 @@
 # USN Lab Exercises
 
-Place each lab exercise Python program in this folder. The supplied archive contains thirteen lab programs.
+This folder contains the 15 Python lab exercise programs supplied in the assignment ZIP.
