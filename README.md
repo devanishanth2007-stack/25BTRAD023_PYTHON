@@ -3,8 +3,10 @@
 This repository is for USN 25BTRAD023.
 
 ## Assignment folders
-- `USN_Problem Solving/`
-- `USN_Experiential Learning Activity/`
-- `USN_Lab Exercises/`
+- `USN_Problem Solving/` — 6 Python programs
+- `USN_Experiential Learning Activity/` — pending activity materials
+- `USN_Lab Exercises/` — 15 Python programs
 
-The assignment ZIP has not yet been extracted into this repository. The source archive contains 6 Problem Solving programs and 13 Lab Exercises. It does not include output screenshots, and the Experiential Learning Activity folder is empty.
+All 21 Python programs from the supplied ZIP have been uploaded into their respective folders.
+
+**Still pending:** Experiential Learning Activity files and output screenshots. The supplied ZIP did not contain these materials.
