@@ -1,5 +1,5 @@
 # Print the name
-print("Jeevan")
+print("Deva")
 # Print the department
 print("CSE AI & Data Engineering")
 # Print the college
