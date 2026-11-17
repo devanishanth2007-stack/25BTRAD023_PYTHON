@@ -1,2 +1,2 @@
-name = "Jeevan"
+name = "deva"
 print(name)
